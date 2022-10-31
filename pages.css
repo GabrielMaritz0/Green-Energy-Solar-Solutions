@@ -40,21 +40,6 @@ a {
   background-color: rgb(1, 21, 77);
   text-align: center;
 }
-.starter {
-  display: flex;
-  justify-content: space-around;
-  align-content: center;
-  gap: 20px;
-  flex-wrap: wrap;
-  background-color: rgb(1, 21, 77);
-  padding: 50px;
-}
-img {
-  width: 600px;
-  height: 300px;
-  border-radius: 5px;
-  flex-shrink: 0 1 auto;
-}
 .footer {
   background-color: #1f2937;
   display: flex;
