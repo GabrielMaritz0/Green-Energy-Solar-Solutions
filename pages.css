@@ -53,6 +53,7 @@ img {
   width: 600px;
   height: 300px;
   border-radius: 5px;
+  flex-shrink: 0 1 auto;
 }
 .footer {
   background-color: #1f2937;
