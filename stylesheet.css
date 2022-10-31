@@ -17,6 +17,7 @@ body {
   align-items: center;
   padding: 20px;
   flex-wrap: wrap;
+  width: 100vw;
 }
 .logo {
   width: 400px;
