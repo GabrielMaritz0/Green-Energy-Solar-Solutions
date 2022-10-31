@@ -76,6 +76,7 @@ a {
   width: 500px;
   height: 300px;
   margin: 20px;
+  overflow: none;
 }
 .first-right {
   width: 500px;
