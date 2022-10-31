@@ -19,6 +19,7 @@
   height: 150px;
   margin: 10px;
   border-radius: 5px;
+  flex-shrink: 1;
 }
 ul {
   list-style-type: none;
