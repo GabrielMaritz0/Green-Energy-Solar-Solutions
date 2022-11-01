@@ -78,6 +78,7 @@ a {
   border-radius: 10px;
   padding: 20px;
   flex-shrink: 0 1 auto;
+  overflow: none;
 }
 .system {
   width: 300px;
