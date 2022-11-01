@@ -67,8 +67,7 @@ a {
   overflow: none;
 }
 .first-left {
-  width: 500px;
-  height: 300px;
+  width: 50%;
   margin-bottom: 20px;
   overflow: none;
 }
@@ -89,7 +88,7 @@ a {
 .system:hover {
   border: 5px solid rgb(168, 111, 6);
   cursor: pointer;
-  scale: 2.2;
+  scale: 1.6;
   transition: all 0.5s ease-in-out;
 }
 .second {
