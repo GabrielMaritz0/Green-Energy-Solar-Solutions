@@ -192,9 +192,9 @@ a {
     font-size: 11px;
   }
   .model:hover {
-    hover: none;
+    pointer-events: none;
   }
   .system:hover {
-    hover: none;
+    pointer-events: none;
   }
 }
