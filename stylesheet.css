@@ -120,7 +120,7 @@ a {
 .mySlides {
   display: none;
 }
-img {
+.slide {
   vertical-align: middle;
   border-radius: 5px;
   margin: 10px;
