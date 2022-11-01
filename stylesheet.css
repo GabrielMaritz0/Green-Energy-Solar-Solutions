@@ -64,6 +64,7 @@ a {
   align-items: center;
   flex-wrap: wrap;
   gap: 20px;
+  overflow: none;
 }
 .first-left {
   width: 500px;
