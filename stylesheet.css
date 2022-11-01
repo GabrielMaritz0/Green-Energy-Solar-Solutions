@@ -67,7 +67,7 @@ a {
   overflow: none;
 }
 .first-left {
-  width: 50%;
+  width: 100%;
   margin-bottom: 20px;
   overflow: none;
 }
@@ -190,5 +190,11 @@ a {
 @media only screen and (max-width: 300px) {
   .text {
     font-size: 11px;
+  }
+  .model:hover {
+    hover: none;
+  }
+  .system:hover {
+    hover: none;
   }
 }
