@@ -37,6 +37,7 @@ ul {
   flex-wrap: wrap;
   list-style: none;
   font-weight: bold;
+  width: 100%;
 }
 a {
   text-decoration: none;
