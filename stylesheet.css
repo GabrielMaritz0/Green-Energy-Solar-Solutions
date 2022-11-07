@@ -12,7 +12,7 @@ p {
   text-align: center;
 }
 .logo {
-  width: 50%;
+  width: 70%;
 }
 .pic {
   width: 35%;
@@ -52,7 +52,7 @@ a {
 .system {
   border: 5px solid rgb(11, 21, 77);
   border-radius: 10px;
-  opacity: 0.6;
+  width: 50%;
 }
 .photos {
   display: flex;
@@ -75,7 +75,7 @@ a {
   margin-left: 80px;
 }
 .mySlides {
-  width: 50%;
+  width: 70%;
 }
 .slide {
   border: 5px solid rgb(11, 21, 77);
