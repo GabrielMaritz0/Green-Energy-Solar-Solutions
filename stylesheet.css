@@ -34,6 +34,7 @@ body {
 }
 ul {
   display: flex;
+  flex-wrap: nowrap;
   list-style: none;
   font-weight: bold;
 }
@@ -83,7 +84,7 @@ a {
 .mySlides {
   width: 50%;
   min-width: 300px;
-  margin-left: 80px;
+  margin-left: 170px;
 }
 .slide {
   border: 5px solid rgb(11, 21, 77);
