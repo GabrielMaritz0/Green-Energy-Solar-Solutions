@@ -34,8 +34,6 @@ body {
 }
 ul {
   display: flex;
-  justify-content: space-evenly;
-  align-items: center;
   list-style: none;
   font-weight: bold;
 }
@@ -85,6 +83,7 @@ a {
 .mySlides {
   width: 50%;
   min-width: 300px;
+  margin-left: 80px;
 }
 .slide {
   border: 5px solid rgb(11, 21, 77);
