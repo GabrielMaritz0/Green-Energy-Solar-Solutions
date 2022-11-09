@@ -1,6 +1,4 @@
 * {
-  padding: 5px;
-  margin: 5px;
   font-family: Arial, Helvetica, sans-serif;
   color: rgb (11, 21, 77);
 }
@@ -37,6 +35,7 @@ ul {
   flex-wrap: nowrap;
   list-style: none;
   font-weight: bold;
+  gap: 20px;
 }
 a {
   text-decoration: none;
@@ -73,19 +72,10 @@ a {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  flex-wrap: wrap;
-  width: 100%;
-}
-.slideshow-container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
   width: 100%;
 }
 .mySlides {
-  width: 50%;
-  min-width: 300px;
-  margin-left: 170px;
+  width: 300px;
 }
 .slide {
   border: 5px solid rgb(11, 21, 77);
